@@ -1,3 +1,3 @@
-# git_test
+# Git_test
 My first GitHub repo!
 Hello [Odin](https://www.theodinproject.com)
